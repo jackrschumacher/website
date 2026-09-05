@@ -12,51 +12,23 @@ This page is a list of all projects that I have been involved in or have contrib
 
 ## Websites
 
-#### [jackrschumacher.com](https://www.jackrschumacher.com)
+|                           **Site**                           |                          **About**                           |                          **GitHub**                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  [www.jackrschumacher.com](https://www.jackrschumacher.com)  | My main website that contains my projects, contact information and an expanded version of my resume and work history | [GitHub](https://github.com/jackrschumacher/jackrschumacher-com) |
+| [links.jackrschumacher.com](https://links.jackrschumacher.com) | A simple site that serves as a collection of links to my websites and profiles | [GitHub](https://github.com/jackrschumacher/jackrschumacher-links) |
+| [cyber.jackrschumacher.com](https://cyber.jackrschumacher.com) |             A collection of cybersecurity notes              |   [GitHub](https://github.com/jackrschumacher/cyber-notes)   |
+| [devices.jackrschumacher.com](https://devices.jackrschumacher.com) |         Information about my devices and benchmarks          |     [GitHub](https://github.com/jackrschumacher/devices)     |
 
-<br>
 
-{{< badge content="jackrschumacher-com GitHub" link="https://github.com/jackrschumacher/jackrschumacher-com" icon="github" >}} 
-
-- My main website that contains my projects, contact information and an expanded version of my resume and work history
-
-#### [links.jackrschumacher.com](https://links.jackrschumacher.com)
-
-<br>
-
-{{< badge content="links GitHub" link="https://github.com/jackrschumacher/links" icon="github" >}} 
-
-- A simple site that serves as a collection of links 
-
-#### [cyber.jackrschumacher.com](https://cyber.jackrschumacher.com)
-
-<br>
-
-{{< badge content="cyber-notes GitHub" link="https://github.com/jackrschumacher/cyber-notes" icon="github" >}} 
-
-- A collection of cybersecurity notes 
-
-#### [benchmarks.jackrschumacher.com](https://benchmarks.jackrschumacher.com)
-
-<br>
-
-{{< badge content="benchmarks GitHub" link="https://github.com/jackrschumacher/benchmarks" icon="github" >}} 
-
-- Benchmarks for my devices
 
 ## Ansible
 
-#### [linux-playbook](https://github.com/jackrschumacher/linux-playbook)
+|                           Playbook                           |            **About**            |
+| :----------------------------------------------------------: | :-----------------------------: |
+| [linux-playbook](https://github.com/jackrschumacher/linux-playbook) | General Linux Ansible playbooks |
+| [cyber-playbook](https://github.com/jackrschumacher/cyber-playbook) | Cybersecurity Ansible playbooks |
 
-- General Linux Ansible playbooks
 
-#### [cyber-playbook](https://github.com/jackrschumacher/cyber-playbook)
-
-- Cybersecurity Ansible playbooks
-
-#### [benchmark-playbook](https://github.com/jackrschumacher/benchmark-playbook)
-
-- Ansible playbook that installs and runs Geekbench and [sbc-bench](https://github.com/ThomasKaiser/sbc-bench).
 
 ## UAH Projects
 

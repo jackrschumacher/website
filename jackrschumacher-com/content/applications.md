@@ -82,7 +82,7 @@ _September 2020 – June 2024_
 
 Licenses & Certifications
 -------------------------
-| **Date issued** |          **Certification name**           |              **Issuer**               |                        **Documents**                         |
+| Date issued |          Certification name           |              Issuer               |                        Documents                         |
 | :---------------------------------------: | :---------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: |
 | Jan 2022 | Autodesk Certified User | Pearson | N/A |
 |                 May 2023                  | Concepts of Entrepreneurship & Management |        ASK Business Institute         |   [View](https://badges.mbaresearch.org/badges/7WhviLHia)    |
@@ -99,19 +99,19 @@ Relevant Coursework
 
 ### University of Alabama in Huntsville
 
-| **Course Number** |           **Course Name**            |                          **Skills**                          |
-| :---------------: | :----------------------------------: | :----------------------------------------------------------: |
-|      IS 146       |  Computer Applications in Business   |                       Microsoft Office                       |
-|      IS 301       | Information Systems in Organizations |       Organizational management with computer systems        |
-|      IS 310       |         Advanced Programming         |                     Python, Bash, Linux                      |
-|      IS 340       |         Database Management          |                  SQL, Microsoft SQL Server                   |
-|      IS 401       |       Cybersecurity Principles       | Kali Linux, Bash, [National Cyber League](#licenses--certifications) |
+| Course Number |             Course Name              |                            Skills                            |
+| :-----------: | :----------------------------------: | :----------------------------------------------------------: |
+|    IS 146     |  Computer Applications in Business   |                       Microsoft Office                       |
+|    IS 301     | Information Systems in Organizations |       Organizational management with computer systems        |
+|    IS 310     |         Advanced Programming         |                     Python, Bash, Linux                      |
+|    IS 340     |         Database Management          |                  SQL, Microsoft SQL Server                   |
+|    IS 401     |       Cybersecurity Principles       | Kali Linux, Bash, [National Cyber League](#licenses--certifications) |
 
 
 
 ### Mukwonago High School
 
-|             **Course Name**             |                          **Skills**                          |
+|               Course Name               |                            Skills                            |
 | :-------------------------------------: | :----------------------------------------------------------: |
 |          AP Computer Science A          |                             Java                             |
 |     AP Computer Science Principles      |                          JavaScript                          |
