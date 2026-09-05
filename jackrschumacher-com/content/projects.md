@@ -60,13 +60,9 @@ This page is a list of all projects that I have been involved in or have contrib
 
 ### ASTRA
 
-#### [astra.jackrschumacher.com](https://astra.jackrschumacher.com)
-
-<br>
-
-{{< badge content="ASTRA-Notes GitHub" link="https://github.com/jackrschumacher/astra-notes" icon="github" >}} 
-
-- Notes from the SHC ASTRA project
+|                             Site                             |              About               |                          GitHub                          |
+| :----------------------------------------------------------: | :------------------------------: | :------------------------------------------------------: |
+| [astra.jackrschumacher.com](https://astra.jackrschumacher.com) | Notes from the SHC ASTRA project | [GitHub](https://github.com/jackrschumacher/astra-notes) |
 
 #### [biosensor-embedded](https://github.com/SHC-ASTRA/biosensor-embedded) 
 
